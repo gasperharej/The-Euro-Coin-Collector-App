@@ -1,0 +1,723 @@
+[
+    {
+      "name": "Casa de la Vall",
+      "country": "Andorra",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2014,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Andorra_1euro.webp"
+    },
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "country": "Austria",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2002,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Austria_1Euro.webp"
+    },
+    {
+      "name": "King Albert II",
+      "country": "Belgium",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 1999,
+      "yearEnd": 2007,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Belgium_1999_1euro.webp"
+    },
+    {
+      "name": "King Albert II",
+      "country": "Belgium",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2011,
+      "yearEnd": 2013,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Belgium_1euro_2011.webp"
+    },
+    {
+      "name": "King Philippe",
+      "country": "Belgium",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2014,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Belgium_1euro_2014.webp"
+    },
+    {
+      "name": "Kuna",
+      "country": "Croatia",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2023,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Croatia_1euro.webp"
+    },
+    {
+      "name": "Idol of Pomos",
+      "country": "Cyprus",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2008,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Cyprus_1euro.webp"
+    },
+    {
+      "name": "Eesti",
+      "country": "Estonia",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2011,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Estonia_1Euro.webp"
+    },
+    {
+      "name": "Flying Swans",
+      "country": "Finland",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2001,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Finland_1euro.webp"
+    },
+    {
+      "name": "a tree",
+      "country": "France",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 1999,
+      "yearEnd": 2021,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/France_1Euro.webp"
+    },
+    {
+      "name": "a tree",
+      "country": "France",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2022,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/France_1euro_2022.webp"
+    },
+    {
+      "name": "Bundesadler",
+      "country": "Germany",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2002,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Germany_1euro.webp"
+    },
+    {
+      "name": "Athenian 4-drachma coin",
+      "country": "Greece",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2002,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Greece_1euro.webp"
+    },
+    {
+      "name": "Éire",
+      "country": "Ireland",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2002,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Ireland_1euro.webp"
+    },
+    {
+      "name": "Le proporzioni del corpo umano secondo Vitruvio",
+      "country": "Italy",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2002,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Italy_1euro.webp"
+    },
+    {
+      "name": "a Latvian folk maiden",
+      "country": "Latvia",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2014,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Latvia_1euro.webp"
+    },
+    {
+      "name": "Vytis",
+      "country": "Lithuania",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2015,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Lithuania_1euro_2015.webp"
+    },
+    {
+      "name": "His Royal Highness Grand Duke Henri",
+      "country": "Luxembourg",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2002,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Luxembourg_1Euro.webp"
+    },
+    {
+      "name": "the Maltese Cross",
+      "country": "Malta",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2008,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Malta_1Euro.webp"
+    },
+    {
+      "name": "HSH Prince Albert II",
+      "country": "Monaco",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2006,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Monaco_1euro_2006.webp"
+    },
+    {
+      "name": "HSH Prince Rainier III and HSH Hereditary Prince Albert",
+      "country": "Monaco",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2001,
+      "yearEnd": 2005,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Monaco_1euro.webp"
+    },
+    {
+      "name": "Beatrix Koningin der Nederlanden",
+      "country": "Netherlands",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 1999,
+      "yearEnd": 2013,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Netherlands_1euro_2000.webp"
+    },
+    {
+      "name": "Willem-Alexander Koning der Nederlanden",
+      "country": "Netherlands",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2014,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Netherlands_1euro_2014.webp"
+    },
+    {
+      "name": "The royal seal of 1144",
+      "country": "Portugal",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2002,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Portugal_1Euro.webp"
+    },
+    {
+      "name": "Coat of arms of the Republic of San Marino",
+      "country": "San Marino",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2002,
+      "yearEnd": 2016,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/SanMarino_1euro_2010.webp"
+    },
+    {
+      "name": "La Cesta",
+      "country": "San Marino",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2017,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/SanMarino_1euro_2017.webp"
+    },
+    {
+      "name": "the Double Cross on Three Hills",
+      "country": "Slovakia",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2009,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Slovakia_1Euro.webp"
+    },
+    {
+      "name": "Primož Trubar",
+      "country": "Slovenia",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2007,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Slovenia_1Euro.webp"
+    },
+    {
+      "name": "King Felipe VI",
+      "country": "Spain",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2015,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Spain_1Euro_2015.webp"
+    },
+    {
+      "name": "Effigy of King Juan Carlos I",
+      "country": "Spain",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 1999,
+      "yearEnd": 2009,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Spain_1Euro_1999.webp"
+    },
+    {
+      "name": "King Juan Carlos I de Borbón y Borbón",
+      "country": "Spain",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2010,
+      "yearEnd": 2014,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Spain_1euro_2014.webp"
+    },
+    {
+      "name": "Pope John Paul II",
+      "country": "Vatican",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2002,
+      "yearEnd": 2005,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Vatican_1euro_2002.webp"
+    },
+    {
+      "name": "Pope Benedict XVI",
+      "country": "Vatican",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2006,
+      "yearEnd": 2013,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Vatican_1euro_2013.webp"
+    },
+    {
+      "name": "Pope Francis",
+      "country": "Vatican",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2014,
+      "yearEnd": 2016,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Vatican_1euro_2016.webp"
+    },
+    {
+      "name": "Citta del Vaticano",
+      "country": "Vatican",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2017,
+      "yearEnd": null,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Vatican_1euro_2017.webp"
+    },
+    {
+      "name": "Sede Vacante",
+      "country": "Vatican",
+      "value": 1,
+      "type": "national",
+      "numberMinted": null,
+      "yearStart": 2005,
+      "yearEnd": 2006,
+      "image": "gs://coins-c790a.firebasestorage.app/1_euro/Vatican_1euro_SedeVacante.webp"
+    },
+    {
+        "name": "Effigy of Prince Rainier III",
+        "country": "Monaco",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2001,
+        "yearEnd": 2005,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/2e.webp"
+    },
+    {
+        "name": "Bertha von Suttner",
+        "country": "Austria",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2002,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Austria_2Euro.webp"
+    },
+    {
+        "name": "King Albert II",
+        "country": "Belgium",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 1999,
+        "yearEnd": 2007,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Belgium_2euroAl.webp"
+    },
+    {
+        "name": "King Albert II",
+        "country": "Belgium",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2008,
+        "yearEnd": 2013,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Belgium_2euro_2008.webp"
+    },
+    {
+        "name": "King Philippe",
+        "country": "Belgium",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2014,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Belgium_2euro_2014ph.webp"
+    },
+    {
+        "name": "a map of Croatia",
+        "country": "Croatia",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2023,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Croatia_2euro.webp"
+    },
+    {
+        "name": "The Idol of Pomos",
+        "country": "Cyprus",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2008,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Cyprus_2Euro.webp"
+    },
+    {
+        "name": "Eesti",
+        "country": "Estonia",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2011,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Estonia_2Euro.webp"
+    },
+    {
+        "name": "The fruit and leaves of the cloudberry",
+        "country": "Finland",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 1999,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Finland_2euro.webp"
+    },
+    {
+        "name": "A stylised tree - Liberté Egalité Fraternité",
+        "country": "France",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 1999,
+        "yearEnd": 2021,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/France_2euro.webp"
+    },
+    {
+        "name": "oak and olive branches",
+        "country": "France",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2022,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/France_2euro_2022.webp"
+    },
+    {
+        "name": "Bundesadler",
+        "country": "Germany",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2002,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Germany_2euro.webp"
+    },
+    {
+        "name": "The abduction of Europa",
+        "country": "Greece",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2002,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Greece_2euro.webp"
+    },
+    {
+        "name": "a Celtic harp",
+        "country": "Ireland",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2002,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Ireland_2euro.webp"
+    },
+    {
+        "name": "Dante Alighieri",
+        "country": "Italy",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2002,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Italy_2euro.webp"
+    },
+    {
+        "name": "a Latvian folk maiden",
+        "country": "Latvia",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2014,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Latvia_2euro.webp"
+    },
+    {
+        "name": "Vytis",
+        "country": "Lithuania",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2015,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Lithuania_2euro_2015.webp"
+    },
+    {
+        "name": "His Royal Highness Grand Duke Henri",
+        "country": "Luxembourg",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2002,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Luxembourg_2euro.webp"
+    },
+    {
+        "name": "Maltese Cross",
+        "country": "Malta",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2008,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Malta_2euro.webp"
+    },
+    {
+        "name": "Prince Albert II",
+        "country": "Monaco",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2006,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Monaco_2euro.webp"
+    },
+    {
+        "name": "King Willem-Alexander",
+        "country": "Netherlands",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2014,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Netherlands_2Euro.webp"
+    },
+    {
+        "name": "Queen Beatrix",
+        "country": "Netherlands",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 1999,
+        "yearEnd": 2013,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Netherlands_2euro_2001.webp"
+    },
+    {
+        "name": "The royal seal of 1144",
+        "country": "Portugal",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2002,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Portugal_2euro.webp"
+    },
+    {
+        "name": "Palazzo Pubblico",
+        "country": "San Marino",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2002,
+        "yearEnd": 2016,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/SanMarino_2euro_2010.webp"
+    },
+    {
+        "name": "The Portrait of San Marino",
+        "country": "San Marino",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2017,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/SanMarino_2euro_2017.webp"
+    },
+    {
+        "name": "Double Cross on Three Hills",
+        "country": "Slovakia",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2009,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Slovakia_2Euro.webp"
+    },
+    {
+        "name": "France Prešeren",
+        "country": "Slovenia",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2007,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Slovenia_2Euro.webp"
+    },
+    {
+        "name": "King Juan Carlos I de Borbón y Borbón",
+        "country": "Spain",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 1999,
+        "yearEnd": 2009,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Spain_2Euro_2003.webp"
+    },
+    {
+        "name": "King Juan Carlos I de Borbón y Borbón",
+        "country": "Spain",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2010,
+        "yearEnd": 2014,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Spain_2euro_2014.webp"
+    },
+    {
+        "name": "King Felipe VI",
+        "country": "Spain",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2015,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Spain_2euro_2015.webp"
+    },
+    {
+        "name": "Coat of arms of Pope Francis",
+        "country": "Vatican",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2017,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Vatican_2euro_2017.webp"
+    },
+    {
+        "name": "Effigy of John Paul II",
+        "country": "Vatican",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2002,
+        "yearEnd": 2005,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Vaticano_2euro_2002.webp"
+    },
+    {
+        "name": "Benedict XVI",
+        "country": "Vatican",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2006,
+        "yearEnd": 2013,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Vaticano_2euro_2013.webp"
+    },
+    {
+        "name": "Pope Francis",
+        "country": "Vatican",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2014,
+        "yearEnd": 2016,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Vaticano_2euro_2016.webp"
+    },
+    {
+        "name": "Insignia of the Apostolic Chamber",
+        "country": "Vatican",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2005,
+        "yearEnd": 2006,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/Vaticano_2euro_SedeVacante.webp"
+    },
+    {
+        "name": "The Coat of arms of Andorra",
+        "country": "Andorra",
+        "value": 2,
+        "type": "national",
+        "numberMinted": null,
+        "yearStart": 2014,
+        "yearEnd": null,
+        "image": "gs://coins-c790a.firebasestorage.app/2_euro/ad_2euro.webp"
+    }
+  ]
+  

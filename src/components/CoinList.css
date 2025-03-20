@@ -1,0 +1,95 @@
+/*/* src/App.css ali src/CoinList.css */
+/*.coin-container {
+/*    display: flex;
+/*    flex-wrap: wrap;
+/*    gap: 30px; /* Razmik med posameznimi kovanci */
+/*    justify-content: center;
+/*    padding: 20px;
+/*  }
+/*  
+/*  .coin-item {
+/*    flex: 0 1 calc(17% - 40px); /* Tri elemente v vrstici (prilagodite glede na zaslon) */
+/*    background-color: #dedede;
+/*    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+/*    border-radius: 8px;
+/*    text-align: center;
+/*    padding: 10px;
+/*  }
+/*  
+/*  .coin-item img {
+/*    max-width: 100%;
+/*    height: auto;
+/*    border-bottom: 1px solid #ffffff;
+/*    margin-bottom: 10px;
+/*  }
+
+
+
+/* src/components/CoinList.css */
+/*.filter-menu {
+/*    margin: 20px;
+/*    text-align: center;
+/*    display: flex;
+/*    gap: 20px;
+/*    flex-wrap: wrap;
+/*    justify-content: center;
+/*  }
+/*  
+/*  .filter-menu label {
+/*    font-size: 14px;
+/*  }
+/*  
+/*  .filter-menu input,
+/*  .filter-menu select {
+/*    margin-left: 5px;
+/*    padding: 4px;
+/*  }
+/*  
+/*  .coin-container {
+/*    display: grid;
+/*    gap: 20px;
+/*    padding: 20px;
+/*    grid-template-columns: repeat(5, 1fr); /* privzeto 5 stolpcev */
+/*  }
+/*  
+/*  @media (max-width: 1200px) {
+/*    .coin-container {
+/*      grid-template-columns: repeat(4, 1fr);
+/*    }
+/*  }
+/*  
+/*  @media (max-width: 800px) {
+/*    .coin-container {
+/*      grid-template-columns: repeat(2, 1fr);
+/*    }
+/*  }
+  
+ 
+/* src/components/CoinList.css */
+.filter-menu {
+    margin: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .filter-menu label {
+    font-size: 14px;
+  }
+  
+  .filter-menu input,
+  .filter-menu select {
+    margin-left: 5px;
+    padding: 4px;
+  }
+  
+  .coin-container {
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+    /* repeat(auto-fit, minmax(150px, 1fr)) prilagodi število stolpcev glede na zaslon */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+
+  

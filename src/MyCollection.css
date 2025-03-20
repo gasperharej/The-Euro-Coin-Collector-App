@@ -1,0 +1,31 @@
+/* src/MyCollection.css */
+.my-collection {
+    padding: 20px;
+  }
+  
+  .collection-filters {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .collection-filters label {
+    font-size: 14px;
+  }
+  
+  .collection-filters input,
+  .collection-filters select {
+    margin-left: 5px;
+    padding: 4px;
+  }
+  
+  .collection-grid {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /*prilagodi glede na velikost zaslona*/
+    padding: 20px;
+  }
+
+  
