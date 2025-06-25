@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Euro Coin Collector
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React web app to track which euro coins you own, view details by year and condition, and mark your personal collection.
 
-## Available Scripts
+## ✨ Features
+- Browse all euro coins by country, denomination and issue years  
+- Add or remove specific coin issues (year + condition) to “My Collection”  
+- Filter and sort coins by year, type or country  
+- Responsive layout for desktop & mobile  
+- (Future) AI-powered image recognition to identify coin properties from photos  
 
-In the project directory, you can run:
+## ⚙️ Installation
+```bash
+git clone https://github.com/yourusername/euro-coin-collector.git
+cd euro-coin-collector
+npm install
+npm start
 
-### `npm start`
+##📖 Usage
+Open the app at [http://localhost:3000](https://the-euro-coin-collector-app.web.app/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Register or log in via the Login page.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Browse All Coins to see the catalog.
 
-### `npm test`
+Click Add to collection on a coin card, select the year, and confirm.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Visit My Collection to view, filter or remove your collected coins.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##🛣️ Roadmap
+See ROADMAP.md for planned features, UI improvements and upcoming milestones.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##🤝 Contributing
+Fork the repo and create a feature branch:
+```bash
+git checkout -b feature/your-feature
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Commit your changes and push:
+```bash
+git commit -m "Add <feature>" && git push origin feature/your-feature
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Open a Pull Request and describe your changes.
+Please add tests for new functionality.
