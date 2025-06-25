@@ -15,9 +15,10 @@ git clone https://github.com/yourusername/euro-coin-collector.git
 cd euro-coin-collector
 npm install
 npm start
+```
 
-##📖 Usage
-Open the app at [http://localhost:3000](https://the-euro-coin-collector-app.web.app/).
+## 📖 Usage
+Open the app at [https://the-euro-coin-collector-app.web.app/](https://the-euro-coin-collector-app.web.app/).
 
 Register or log in via the Login page.
 
@@ -28,17 +29,19 @@ Click Add to collection on a coin card, select the year, and confirm.
 Visit My Collection to view, filter or remove your collected coins.
 
 
-##🛣️ Roadmap
-See ROADMAP.md for planned features, UI improvements and upcoming milestones.
+## 🛣️ Roadmap
+See [ROADMAP.md](ROADMAP.md) for planned features, UI improvements and upcoming milestones.
 
-##🤝 Contributing
+## 🤝 Contributing
 Fork the repo and create a feature branch:
 ```bash
 git checkout -b feature/your-feature
+```
 
 Commit your changes and push:
 ```bash
 git commit -m "Add <feature>" && git push origin feature/your-feature
+```
 
 Open a Pull Request and describe your changes.
 Please add tests for new functionality.
