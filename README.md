@@ -17,6 +17,10 @@ npm install
 npm start
 ```
 
+## 📸 Screenshot / Demo
+
+![App Screenshot](./brave_screenshot_the-euro-coin-collector-app.web.app.png)
+
 ## 📖 Usage
 Open the app at [https://the-euro-coin-collector-app.web.app/](https://the-euro-coin-collector-app.web.app/).
 
