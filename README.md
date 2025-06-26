@@ -1,4 +1,4 @@
-# Euro Coin Collector
+# The Euro Coin Collector App
 
 A React web app to track which euro coins you own, view details by year and condition, and mark your personal collection.
 
@@ -11,8 +11,8 @@ A React web app to track which euro coins you own, view details by year and cond
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/yourusername/euro-coin-collector.git
-cd euro-coin-collector
+git clone https://github.com/gasperharej/The-Euro-Coin-Collector-App
+cd The-Euro-Coin-Collector-App
 npm install
 npm start
 ```
